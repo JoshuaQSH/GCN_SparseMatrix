@@ -1,3 +1,7 @@
+# Shenghao Qiu
+# 01/02/2021
+# UoL
+
 import numpy as np
 import pickle as pkl
 import networkx as nx
